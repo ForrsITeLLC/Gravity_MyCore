@@ -1,0 +1,129 @@
+C:\Users\jbyrne\Documents\Visual Studio 2008\Projects\MyCore\bin\MyCore.dll.config
+C:\Users\jbyrne\Documents\Visual Studio 2008\Projects\MyCore\bin\MyCore.dll
+C:\Users\jbyrne\Documents\Visual Studio 2008\Projects\MyCore\bin\MyCore.xml
+C:\Users\jbyrne\Documents\Visual Studio 2008\Projects\MyCore\obj\Release\ResolveAssemblyReference.cache
+C:\Users\jbyrne\Documents\Visual Studio 2008\Projects\MyCore\obj\Release\MyCore.AskWindow.resources
+C:\Users\jbyrne\Documents\Visual Studio 2008\Projects\MyCore\obj\Release\MyCore.Browse.resources
+C:\Users\jbyrne\Documents\Visual Studio 2008\Projects\MyCore\obj\Release\MyCore.ErrorPop.resources
+C:\Users\jbyrne\Documents\Visual Studio 2008\Projects\MyCore\obj\Release\MyCore.frmDateBox.resources
+C:\Users\jbyrne\Documents\Visual Studio 2008\Projects\MyCore\obj\Release\MyCore.frmLogin.resources
+C:\Users\jbyrne\Documents\Visual Studio 2008\Projects\MyCore\obj\Release\MyCore.frmSelect.resources
+C:\Users\jbyrne\Documents\Visual Studio 2008\Projects\MyCore\obj\Release\MyCore.frmNewUpdate.resources
+C:\Users\jbyrne\Documents\Visual Studio 2008\Projects\MyCore\obj\Release\MyCore.GravityInput.resources
+C:\Users\jbyrne\Documents\Visual Studio 2008\Projects\MyCore\obj\Release\MyCore.InfoPop.resources
+C:\Users\jbyrne\Documents\Visual Studio 2008\Projects\MyCore\obj\Release\MyCore.MultiInput.resources
+C:\Users\jbyrne\Documents\Visual Studio 2008\Projects\MyCore\obj\Release\MyCore.vbproj.GenerateResource.Cache
+C:\Users\jbyrne\Documents\Visual Studio 2008\Projects\MyCore\obj\Release\MyCore.dll.licenses
+C:\Users\jbyrne\Documents\Visual Studio 2008\Projects\MyCore\obj\Release\MyCore.dll
+C:\Users\jbyrne\Documents\Visual Studio 2008\Projects\MyCore\obj\Release\MyCore.xml
+C:\Users\jbyrne\Documents\Visual Studio 2008\Projects\MyCore\obj\Release\MyCore.FormattedTextEditor.resources
+C:\Users\jbyrne\Documents\Visual Studio 2008\Projects\MyCore\obj\Release\MyCore.frmEmailForm.resources
+C:\Users\jbyrne\Documents\Visual Studio 2008\Projects\MyCore\obj\Release\MyCore.Resources.resources
+C:\Users\jbyrne\Documents\Visual Studio 2008\Projects\MyCore\bin\MyCore.pdb
+C:\Users\jbyrne\Documents\Visual Studio 2008\Projects\MyCore\obj\Release\MyCore.pdb
+C:\Users\jbyrne\Documents\Visual Studio 2008\Projects\MyCore\obj\Release\MyCore.AutoCompleteBox.resources
+C:\Users\jbyrne\Documents\Visual Studio 2008\Projects\MyCore\obj\Release\MyCore.GoogleMap.resources
+C:\Users\jbyrne\Documents\Visual Studio 2008\Projects\MyCore\obj\Release\MyCore.LineItemGrid.resources
+C:\Users\jbyrne\Documents\Visual Studio 2008\Projects\MyCore\obj\Release\MyCore.LinkList.resources
+C:\Users\jbyrne\Documents\Visual Studio 2008\Projects\MyCore\obj\Release\MyCore.ListBoxJumper.resources
+C:\Users\jbyrne\Documents\Visual Studio 2008\Projects\MyCore\obj\Release\MyCore.LookupBox.resources
+C:\Users\jbyrne\Documents\Visual Studio 2008\Projects\MyCore\obj\Release\MyCore.OnOffTextBox.resources
+C:\Users\jbyrne\Documents\Visual Studio 2008\Projects\MyCore\obj\Release\MyCore.SignatureBox.resources
+C:\Users\jbyrne\Documents\Visual Studio 2008\Projects\MyCore\obj\Release\MyCore.TableView.resources
+C:\Users\jbyrne\Documents\Visual Studio 2008\Projects\MyCore\bin\Interop.SHDocVw.dll
+C:\Users\jbyrne\Documents\Visual Studio 2008\Projects\MyCore\bin\AxInterop.SHDocVw.dll
+C:\Users\jbyrne\Documents\Visual Studio 2008\Projects\MyCore\obj\Release\Interop.SHDocVw.dll
+C:\Users\jbyrne\Documents\Visual Studio 2008\Projects\MyCore\obj\Release\AxInterop.SHDocVw.dll
+C:\Users\jbyrne\Documents\Visual Studio 2008\Projects\MyCore\obj\Release\MyCore.vbproj.ResolveComReference.cache
+C:\Users\jbyrne\Documents\Visual Studio 2008\Projects\MyCore\bin\Interop.FAXCOMLib.dll
+C:\Users\jbyrne\Documents\Visual Studio 2008\Projects\MyCore\obj\Release\MyCore.frmPrint.resources
+C:\Users\jbyrne\Documents\Visual Studio 2008\Projects\MyCore\obj\Release\MyCore.ArrowButtonNext.resources
+C:\Users\jbyrne\Documents\Visual Studio 2008\Projects\MyCore\obj\Release\MyCore.ArrowButtonPrev.resources
+D:\Downloads\SourceCode\SourceCode\MyCore\obj\Release\MyCore.vbproj.AssemblyReference.cache
+D:\Downloads\SourceCode\SourceCode\MyCore\obj\Release\Interop.SHDocVw.dll
+D:\Downloads\SourceCode\SourceCode\MyCore\obj\Release\AxInterop.SHDocVw.dll
+D:\Downloads\SourceCode\SourceCode\MyCore\obj\Release\MyCore.vbproj.ResolveComReference.cache
+D:\Downloads\SourceCode\SourceCode\MyCore\obj\Release\MyCore.ArrowButtonNext.resources
+D:\Downloads\SourceCode\SourceCode\MyCore\obj\Release\MyCore.ArrowButtonPrev.resources
+D:\Downloads\SourceCode\SourceCode\MyCore\obj\Release\MyCore.AutoCompleteBox.resources
+D:\Downloads\SourceCode\SourceCode\MyCore\obj\Release\MyCore.ErrorPop.resources
+D:\Downloads\SourceCode\SourceCode\MyCore\obj\Release\MyCore.AskWindow.resources
+D:\Downloads\SourceCode\SourceCode\MyCore\obj\Release\MyCore.Browse.resources
+D:\Downloads\SourceCode\SourceCode\MyCore\obj\Release\MyCore.FormattedTextEditor.resources
+D:\Downloads\SourceCode\SourceCode\MyCore\obj\Release\MyCore.frmDateBox.resources
+D:\Downloads\SourceCode\SourceCode\MyCore\obj\Release\MyCore.frmEmailForm.resources
+D:\Downloads\SourceCode\SourceCode\MyCore\obj\Release\MyCore.frmLogin.resources
+D:\Downloads\SourceCode\SourceCode\MyCore\obj\Release\MyCore.frmSelect.resources
+D:\Downloads\SourceCode\SourceCode\MyCore\obj\Release\MyCore.frmNewUpdate.resources
+D:\Downloads\SourceCode\SourceCode\MyCore\obj\Release\MyCore.GravityInput.resources
+D:\Downloads\SourceCode\SourceCode\MyCore\obj\Release\MyCore.InfoPop.resources
+D:\Downloads\SourceCode\SourceCode\MyCore\obj\Release\MyCore.GoogleMap.resources
+D:\Downloads\SourceCode\SourceCode\MyCore\obj\Release\MyCore.frmPrint.resources
+D:\Downloads\SourceCode\SourceCode\MyCore\obj\Release\MyCore.MultiInput.resources
+D:\Downloads\SourceCode\SourceCode\MyCore\obj\Release\MyCore.LineItemGrid.resources
+D:\Downloads\SourceCode\SourceCode\MyCore\obj\Release\MyCore.LinkList.resources
+D:\Downloads\SourceCode\SourceCode\MyCore\obj\Release\MyCore.ListBoxJumper.resources
+D:\Downloads\SourceCode\SourceCode\MyCore\obj\Release\MyCore.LookupBox.resources
+D:\Downloads\SourceCode\SourceCode\MyCore\obj\Release\MyCore.Resources.resources
+D:\Downloads\SourceCode\SourceCode\MyCore\obj\Release\MyCore.OnOffTextBox.resources
+D:\Downloads\SourceCode\SourceCode\MyCore\obj\Release\MyCore.SignatureBox.resources
+D:\Downloads\SourceCode\SourceCode\MyCore\obj\Release\MyCore.TableView.resources
+D:\Downloads\SourceCode\SourceCode\MyCore\obj\Release\MyCore.vbproj.GenerateResource.cache
+D:\Downloads\SourceCode\SourceCode\MyCore\obj\Release\MyCore.dll.licenses
+D:\Downloads\SourceCode\SourceCode\MyCore\obj\Release\MyCore.vbproj.CoreCompileInputs.cache
+D:\Downloads\SourceCode\SourceCode\MyCore\bin\MyCore.dll.config
+D:\Downloads\SourceCode\SourceCode\MyCore\bin\MyCore.dll
+D:\Downloads\SourceCode\SourceCode\MyCore\bin\MyCore.pdb
+D:\Downloads\SourceCode\SourceCode\MyCore\bin\MyCore.xml
+D:\Downloads\SourceCode\SourceCode\MyCore\bin\BouncyCastle.Crypto.dll
+D:\Downloads\SourceCode\SourceCode\MyCore\bin\Google.Protobuf.dll
+D:\Downloads\SourceCode\SourceCode\MyCore\bin\Infragistics4.Shared.v22.2.dll
+D:\Downloads\SourceCode\SourceCode\MyCore\bin\Infragistics4.Win.Misc.v22.2.dll
+D:\Downloads\SourceCode\SourceCode\MyCore\bin\Infragistics4.Win.UltraWinEditors.v22.2.dll
+D:\Downloads\SourceCode\SourceCode\MyCore\bin\Infragistics4.Win.UltraWinGrid.v22.2.dll
+D:\Downloads\SourceCode\SourceCode\MyCore\bin\Infragistics4.Win.UltraWinListView.v22.2.dll
+D:\Downloads\SourceCode\SourceCode\MyCore\bin\Infragistics4.Win.UltraWinSchedule.v22.2.dll
+D:\Downloads\SourceCode\SourceCode\MyCore\bin\Infragistics4.Win.UltraWinTree.v22.2.dll
+D:\Downloads\SourceCode\SourceCode\MyCore\bin\Infragistics4.Win.v22.2.dll
+D:\Downloads\SourceCode\SourceCode\MyCore\bin\Interop.FAXCOMLib.dll
+D:\Downloads\SourceCode\SourceCode\MyCore\bin\K4os.Compression.LZ4.dll
+D:\Downloads\SourceCode\SourceCode\MyCore\bin\K4os.Compression.LZ4.Streams.dll
+D:\Downloads\SourceCode\SourceCode\MyCore\bin\K4os.Hash.xxHash.dll
+D:\Downloads\SourceCode\SourceCode\MyCore\bin\MySql.Data.dll
+D:\Downloads\SourceCode\SourceCode\MyCore\bin\System.Buffers.dll
+D:\Downloads\SourceCode\SourceCode\MyCore\bin\System.Data.SQLite.dll
+D:\Downloads\SourceCode\SourceCode\MyCore\bin\System.Memory.dll
+D:\Downloads\SourceCode\SourceCode\MyCore\bin\System.Numerics.Vectors.dll
+D:\Downloads\SourceCode\SourceCode\MyCore\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Downloads\SourceCode\SourceCode\MyCore\bin\Infragistics4.Win.UltraWinToolbars.v22.2.dll
+D:\Downloads\SourceCode\SourceCode\MyCore\bin\Infragistics4.Win.UltraWinTabControl.v22.2.dll
+D:\Downloads\SourceCode\SourceCode\MyCore\bin\Infragistics4.Win.UltraWinStatusBar.v22.2.dll
+D:\Downloads\SourceCode\SourceCode\MyCore\bin\BouncyCastle.Crypto.xml
+D:\Downloads\SourceCode\SourceCode\MyCore\bin\Google.Protobuf.pdb
+D:\Downloads\SourceCode\SourceCode\MyCore\bin\Google.Protobuf.xml
+D:\Downloads\SourceCode\SourceCode\MyCore\bin\Infragistics4.Shared.v22.2.xml
+D:\Downloads\SourceCode\SourceCode\MyCore\bin\Infragistics4.Win.Misc.v22.2.xml
+D:\Downloads\SourceCode\SourceCode\MyCore\bin\Infragistics4.Win.UltraWinEditors.v22.2.xml
+D:\Downloads\SourceCode\SourceCode\MyCore\bin\Infragistics4.Win.UltraWinGrid.v22.2.xml
+D:\Downloads\SourceCode\SourceCode\MyCore\bin\Infragistics4.Win.UltraWinListView.v22.2.xml
+D:\Downloads\SourceCode\SourceCode\MyCore\bin\Infragistics4.Win.UltraWinSchedule.v22.2.xml
+D:\Downloads\SourceCode\SourceCode\MyCore\bin\Infragistics4.Win.UltraWinTree.v22.2.xml
+D:\Downloads\SourceCode\SourceCode\MyCore\bin\Infragistics4.Win.v22.2.xml
+D:\Downloads\SourceCode\SourceCode\MyCore\bin\K4os.Compression.LZ4.xml
+D:\Downloads\SourceCode\SourceCode\MyCore\bin\K4os.Compression.LZ4.Streams.xml
+D:\Downloads\SourceCode\SourceCode\MyCore\bin\K4os.Hash.xxHash.xml
+D:\Downloads\SourceCode\SourceCode\MyCore\bin\MySql.Data.xml
+D:\Downloads\SourceCode\SourceCode\MyCore\bin\System.Buffers.xml
+D:\Downloads\SourceCode\SourceCode\MyCore\bin\System.Data.SQLite.xml
+D:\Downloads\SourceCode\SourceCode\MyCore\bin\System.Memory.xml
+D:\Downloads\SourceCode\SourceCode\MyCore\bin\System.Numerics.Vectors.xml
+D:\Downloads\SourceCode\SourceCode\MyCore\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Downloads\SourceCode\SourceCode\MyCore\bin\Infragistics4.Win.UltraWinToolbars.v22.2.xml
+D:\Downloads\SourceCode\SourceCode\MyCore\bin\Infragistics4.Win.UltraWinTabControl.v22.2.xml
+D:\Downloads\SourceCode\SourceCode\MyCore\bin\Infragistics4.Win.UltraWinStatusBar.v22.2.xml
+D:\Downloads\SourceCode\SourceCode\MyCore\bin\Interop.SHDocVw.dll
+D:\Downloads\SourceCode\SourceCode\MyCore\bin\AxInterop.SHDocVw.dll
+D:\Downloads\SourceCode\SourceCode\MyCore\obj\Release\MyCore.vbproj.CopyComplete
+D:\Downloads\SourceCode\SourceCode\MyCore\obj\Release\MyCore.dll
+D:\Downloads\SourceCode\SourceCode\MyCore\obj\Release\MyCore.xml
+D:\Downloads\SourceCode\SourceCode\MyCore\obj\Release\MyCore.pdb

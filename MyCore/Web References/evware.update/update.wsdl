@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:tns="http://www.evware.com/updatephp" xmlns:si="http://soapinterop.org/xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns="http://schemas.xmlsoap.org/wsdl/" targetNamespace="http://www.evware.com/updatephp" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://www.evware.com/updatephp">
+      <xsd:import namespace="http://schemas.xmlsoap.org/soap/encoding/" />
+      <xsd:import namespace="http://schemas.xmlsoap.org/wsdl/" />
+      <xsd:complexType name="VersionInfo">
+        <xsd:all>
+          <xsd:element name="date" type="xsd:string" />
+          <xsd:element name="title" type="xsd:string" />
+          <xsd:element name="description" type="xsd:string" />
+          <xsd:element name="priority" type="xsd:integer" />
+          <xsd:element name="url" type="xsd:string" />
+          <xsd:element name="contract_current" type="xsd:boolean" />
+          <xsd:element name="auto_update" type="xsd:boolean" />
+        </xsd:all>
+      </xsd:complexType>
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="CheckForUpdateRequest">
+    <wsdl:part name="machine_key" type="xsd:string" />
+  </wsdl:message>
+  <wsdl:message name="CheckForUpdateResponse">
+    <wsdl:part name="return" type="tns:VersionInfo" />
+  </wsdl:message>
+  <wsdl:portType name="UpdatePortType">
+    <wsdl:operation name="CheckForUpdate">
+      <wsdl:input message="tns:CheckForUpdateRequest" />
+      <wsdl:output message="tns:CheckForUpdateResponse" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="UpdateBinding" type="tns:UpdatePortType">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" style="rpc" />
+    <wsdl:operation name="CheckForUpdate">
+      <soap:operation soapAction="http://www.evware.com/update.php/CheckForUpdate" style="rpc" />
+      <wsdl:input>
+        <soap:body use="encoded" namespace="http://www.evware.com/updatephp" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="encoded" namespace="http://www.evware.com/updatephp" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="Update">
+    <wsdl:port name="UpdatePort" binding="tns:UpdateBinding">
+      <soap:address location="http://www.evware.com/update.php" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

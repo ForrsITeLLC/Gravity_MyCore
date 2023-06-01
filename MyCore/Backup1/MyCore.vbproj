@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="3.5">
+  <PropertyGroup>
+    <ProjectType>Local</ProjectType>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{395A087D-53A5-4AE1-BA8E-F8243C223B8D}</ProjectGuid>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ApplicationIcon>
+    </ApplicationIcon>
+    <AssemblyKeyContainerName>
+    </AssemblyKeyContainerName>
+    <AssemblyName>MyCore</AssemblyName>
+    <AssemblyOriginatorKeyFile>
+    </AssemblyOriginatorKeyFile>
+    <AssemblyOriginatorKeyMode>None</AssemblyOriginatorKeyMode>
+    <DefaultClientScript>JScript</DefaultClientScript>
+    <DefaultHTMLPageLayout>Grid</DefaultHTMLPageLayout>
+    <DefaultTargetSchema>IE50</DefaultTargetSchema>
+    <DelaySign>false</DelaySign>
+    <OutputType>Library</OutputType>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionStrict>Off</OptionStrict>
+    <RootNamespace>MyCore</RootNamespace>
+    <StartupObject>
+    </StartupObject>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <MyType>Windows</MyType>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>2.0</OldToolsVersion>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <OutputPath>bin\</OutputPath>
+    <DocumentationFile>MyCore.xml</DocumentationFile>
+    <BaseAddress>285212672</BaseAddress>
+    <ConfigurationOverrideFile>
+    </ConfigurationOverrideFile>
+    <DefineConstants>
+    </DefineConstants>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <DebugSymbols>true</DebugSymbols>
+    <Optimize>false</Optimize>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningLevel>1</WarningLevel>
+    <NoWarn>42016,42017,42018,42019,42032</NoWarn>
+    <DebugType>full</DebugType>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <OutputPath>bin\</OutputPath>
+    <DocumentationFile>MyCore.xml</DocumentationFile>
+    <BaseAddress>285212672</BaseAddress>
+    <ConfigurationOverrideFile>
+    </ConfigurationOverrideFile>
+    <DefineConstants>
+    </DefineConstants>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <DebugSymbols>true</DebugSymbols>
+    <Optimize>true</Optimize>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningLevel>1</WarningLevel>
+    <NoWarn>42016,42017,42018,42019,42032</NoWarn>
+    <DebugType>Full</DebugType>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Infragistics2.Win.v10.3, Version=10.3.20103.1000, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb, processorArchitecture=MSIL">
+      <HintPath>C:\Program Files (x86)\Infragistics\NetAdvantage 2010.3\Windows Forms\Bin\Infragistics2.Win.v10.3.dll</HintPath>
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="Infragistics2.Win.UltraWinTree.v10.3, Version=10.3.20103.1000, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb, processorArchitecture=MSIL">
+      <HintPath>C:\Program Files (x86)\Infragistics\NetAdvantage 2010.3\Windows Forms\Bin\Infragistics2.Win.UltraWinTree.v10.3.dll</HintPath>
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="Infragistics2.Win.UltraWinSchedule.v10.3, Version=10.3.20103.1000, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb, processorArchitecture=MSIL">
+      <HintPath>C:\Program Files (x86)\Infragistics\NetAdvantage 2010.3\Windows Forms\Bin\Infragistics2.Win.UltraWinSchedule.v10.3.dll</HintPath>
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="Infragistics2.Win.UltraWinListView.v10.3, Version=10.3.20103.1000, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb, processorArchitecture=MSIL">
+      <HintPath>C:\Program Files (x86)\Infragistics\NetAdvantage 2010.3\Windows Forms\Bin\Infragistics2.Win.UltraWinListView.v10.3.dll</HintPath>
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="Infragistics2.Win.UltraWinGrid.v10.3, Version=10.3.20103.1000, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb, processorArchitecture=MSIL">
+      <HintPath>C:\Program Files (x86)\Infragistics\NetAdvantage 2010.3\Windows Forms\Bin\Infragistics2.Win.UltraWinGrid.v10.3.dll</HintPath>
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="Infragistics2.Win.UltraWinEditors.v10.3, Version=10.3.20103.1000, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb, processorArchitecture=MSIL">
+      <HintPath>C:\Program Files (x86)\Infragistics\NetAdvantage 2010.3\Windows Forms\Bin\Infragistics2.Win.UltraWinEditors.v10.3.dll</HintPath>
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="Infragistics2.Win.Misc.v10.3, Version=10.3.20103.1000, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb, processorArchitecture=MSIL">
+      <HintPath>C:\Program Files (x86)\Infragistics\NetAdvantage 2010.3\Windows Forms\Bin\Infragistics2.Win.Misc.v10.3.dll</HintPath>
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="Infragistics2.Shared.v10.3, Version=10.3.20103.1000, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb, processorArchitecture=MSIL">
+      <HintPath>C:\Program Files (x86)\Infragistics\NetAdvantage 2010.3\Windows Forms\Bin\Infragistics2.Shared.v10.3.dll</HintPath>
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="ChilkatDotNet2, Version=8.1.2.0, Culture=neutral, PublicKeyToken=eb5fc1fc52ef09bd, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\Program Files\Chilkat Software Inc\Chilkat.NET-v2.0-Framework\ChilkatDotNet2.dll</HintPath>
+    </Reference>
+    <Reference Include="dbAutoTrack.PDFWriter, Version=2.6.1.0, Culture=neutral, PublicKeyToken=40b2134825d59165, processorArchitecture=MSIL" />
+    <Reference Include="Interop.FAXCOMLib, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Gravity Office\bin\Release\Interop.FAXCOMLib.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic">
+      <Name>Microsoft.VisualBasic</Name>
+    </Reference>
+    <Reference Include="MySql.Data, Version=5.1.5.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="System">
+      <Name>System</Name>
+    </Reference>
+    <Reference Include="System.Data">
+      <Name>System.Data</Name>
+    </Reference>
+    <Reference Include="System.Data.SQLite, Version=1.0.60.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139, processorArchitecture=x86" />
+    <Reference Include="System.Drawing">
+      <Name>System.Drawing</Name>
+    </Reference>
+    <Reference Include="System.Management">
+      <Name>System.Management</Name>
+    </Reference>
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms">
+      <Name>System.Windows.Forms</Name>
+    </Reference>
+    <Reference Include="System.Xml">
+      <Name>System.XML</Name>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Data" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Windows" />
+    <Import Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Controls\ArrowButtonNext.Designer.vb">
+      <DependentUpon>ArrowButtonNext.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ArrowButtonNext.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ArrowButtonPrev.Designer.vb">
+      <DependentUpon>ArrowButtonPrev.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ArrowButtonPrev.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\AutoCompleteBox.Designer.vb">
+      <DependentUpon>AutoCompleteBox.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\AutoCompleteBox.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Forms\ErrorPop.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPrint.Designer.vb">
+      <DependentUpon>frmPrint.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmPrint.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Objects\cCreditMemo.vb" />
+    <Compile Include="Objects\cDocument.vb" />
+    <Compile Include="Objects\cDocumentPage.vb" />
+    <Compile Include="Objects\cElement.vb" />
+    <Compile Include="Objects\CIHashtable.vb" />
+    <Compile Include="Objects\cInvoiceReport.vb" />
+    <Compile Include="Email.vb" />
+    <Compile Include="Forms\FormattedTextEditor.Designer.vb">
+      <DependentUpon>FormattedTextEditor.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormattedTextEditor.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmEmailForm.Designer.vb">
+      <DependentUpon>frmEmailForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmEmailForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="gDoc\gDocument.vb" />
+    <Compile Include="gDoc\gElement.vb" />
+    <Compile Include="gDoc\gImage.vb" />
+    <Compile Include="gDoc\gPage.vb" />
+    <Compile Include="gDoc\gTable.vb" />
+    <Compile Include="Controls\GoogleMap.Designer.vb">
+      <DependentUpon>GoogleMap.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\GoogleMap.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\LineItemGrid.Designer.vb">
+      <DependentUpon>LineItemGrid.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\LineItemGrid.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\LinkList.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ListBoxJumper.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\LookupBox.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Objects\cCalAgreement.vb" />
+    <Compile Include="Objects\cCalProcedure.vb" />
+    <Compile Include="Objects\cCalTemplate.vb" />
+    <Compile Include="Objects\cCompany.vb" />
+    <Compile Include="Objects\cContact.vb" />
+    <Compile Include="Objects\cCustomerStatement.vb" />
+    <Compile Include="Objects\cEmployee.vb" />
+    <Compile Include="Objects\cEquipment.vb" />
+    <Compile Include="Objects\cException.vb" />
+    <Compile Include="Objects\cImport.vb" />
+    <Compile Include="Objects\cInteraction.vb" />
+    <Compile Include="Objects\cInvoice.vb" />
+    <Compile Include="Objects\cItemMaster.vb" />
+    <Compile Include="Objects\cOpportunity.vb" />
+    <Compile Include="Objects\cPayment.vb" />
+    <Compile Include="Objects\cProfitReport.vb" />
+    <Compile Include="Objects\cProject.vb" />
+    <Compile Include="Objects\cPurchaseOrder.vb" />
+    <Compile Include="Objects\cQuote.vb" />
+    <Compile Include="Objects\cRateCalculator.vb" />
+    <Compile Include="Objects\cRateTable.vb" />
+    <Compile Include="Objects\cRentalOrder.vb" />
+    <Compile Include="Objects\cSalesOrder.vb" />
+    <Compile Include="Objects\cServiceOrder.vb" />
+    <Compile Include="Objects\cSettings.vb" />
+    <Compile Include="Objects\cStandard.vb" />
+    <Compile Include="Objects\cTaxCode.vb" />
+    <Compile Include="Objects\cTimesheetCalc.vb" />
+    <Compile Include="Objects\cScheduleItem.vb" />
+    <Compile Include="Objects\cWorkOrder.vb" />
+    <Compile Include="Forms\AskWindow.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AssemblyInfo.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Forms\Browse.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Calc.vb" />
+    <Compile Include="Data.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Forms\frmDateBox.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmLogin.designer.vb">
+      <DependentUpon>frmLogin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmLogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmSelect.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmNewUpdate.Designer.vb">
+      <DependentUpon>frmNewUpdate.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmNewUpdate.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gravity.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Forms\GravityInput.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\InfoPop.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\MultiInput.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\OnOffTextBox.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Plugins.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reports.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Rest.vb" />
+    <Compile Include="Settings.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Controls\SignatureBox.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\TableView.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Utility.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <EmbeddedResource Include="Controls\ArrowButtonNext.resx">
+      <DependentUpon>ArrowButtonNext.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ArrowButtonPrev.resx">
+      <DependentUpon>ArrowButtonPrev.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\AutoCompleteBox.resx">
+      <DependentUpon>AutoCompleteBox.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\ErrorPop.resx">
+      <DependentUpon>ErrorPop.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\AskWindow.resx">
+      <DependentUpon>AskWindow.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Browse.resx">
+      <DependentUpon>Browse.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormattedTextEditor.resx">
+      <DependentUpon>FormattedTextEditor.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmDateBox.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmEmailForm.resx">
+      <DependentUpon>frmEmailForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmLogin.resx">
+      <DependentUpon>frmLogin.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmSelect.resx">
+      <DependentUpon>frmSelect.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmNewUpdate.resx">
+      <DependentUpon>frmNewUpdate.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\GravityInput.resx">
+      <DependentUpon>GravityInput.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\InfoPop.resx">
+      <DependentUpon>InfoPop.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\GoogleMap.resx">
+      <DependentUpon>GoogleMap.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPrint.resx">
+      <DependentUpon>frmPrint.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="licenses.licx" />
+    <EmbeddedResource Include="Forms\MultiInput.resx">
+      <DependentUpon>MultiInput.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\LineItemGrid.resx">
+      <DependentUpon>LineItemGrid.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\LinkList.resx">
+      <DependentUpon>LinkList.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ListBoxJumper.resx">
+      <DependentUpon>ListBoxJumper.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\LookupBox.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\OnOffTextBox.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\SignatureBox.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\TableView.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <WebReferences Include="Web References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="My Project\Settings.settings">
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxSHDocVw">
+      <Guid>{EAB22AC0-30C1-11CF-A7EB-0000C05BAE0B}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>1</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="SHDocVw">
+      <Guid>{EAB22AC0-30C1-11CF-A7EB-0000C05BAE0B}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>1</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{94E38DFF-614B-4CBD-B67C-F211BB35CE8B}" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Search_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gravity-login-2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gravity-login.gif" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.VisualBasic.targets" />
+  <PropertyGroup>
+    <PreBuildEvent>
+    </PreBuildEvent>
+    <PostBuildEvent>
+    </PostBuildEvent>
+  </PropertyGroup>
+</Project>

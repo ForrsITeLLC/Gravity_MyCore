@@ -1,0 +1,293 @@
+C:\Users\jbyrne\Documents\Visual Studio 2008\Projects\MyCore\bin\MyCore.dll.config
+C:\Users\jbyrne\Documents\Visual Studio 2008\Projects\MyCore\bin\MyCore.dll
+C:\Users\jbyrne\Documents\Visual Studio 2008\Projects\MyCore\bin\MyCore.pdb
+C:\Users\jbyrne\Documents\Visual Studio 2008\Projects\MyCore\bin\MyCore.xml
+C:\Users\jbyrne\Documents\Visual Studio 2008\Projects\MyCore\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jbyrne\Documents\Visual Studio 2008\Projects\MyCore\obj\Debug\MyCore.AskWindow.resources
+C:\Users\jbyrne\Documents\Visual Studio 2008\Projects\MyCore\obj\Debug\MyCore.Browse.resources
+C:\Users\jbyrne\Documents\Visual Studio 2008\Projects\MyCore\obj\Debug\MyCore.ErrorPop.resources
+C:\Users\jbyrne\Documents\Visual Studio 2008\Projects\MyCore\obj\Debug\MyCore.FormattedTextEditor.resources
+C:\Users\jbyrne\Documents\Visual Studio 2008\Projects\MyCore\obj\Debug\MyCore.frmDateBox.resources
+C:\Users\jbyrne\Documents\Visual Studio 2008\Projects\MyCore\obj\Debug\MyCore.frmEmailForm.resources
+C:\Users\jbyrne\Documents\Visual Studio 2008\Projects\MyCore\obj\Debug\MyCore.frmLogin.resources
+C:\Users\jbyrne\Documents\Visual Studio 2008\Projects\MyCore\obj\Debug\MyCore.frmSelect.resources
+C:\Users\jbyrne\Documents\Visual Studio 2008\Projects\MyCore\obj\Debug\MyCore.frmNewUpdate.resources
+C:\Users\jbyrne\Documents\Visual Studio 2008\Projects\MyCore\obj\Debug\MyCore.GravityInput.resources
+C:\Users\jbyrne\Documents\Visual Studio 2008\Projects\MyCore\obj\Debug\MyCore.InfoPop.resources
+C:\Users\jbyrne\Documents\Visual Studio 2008\Projects\MyCore\obj\Debug\MyCore.MultiInput.resources
+C:\Users\jbyrne\Documents\Visual Studio 2008\Projects\MyCore\obj\Debug\MyCore.Resources.resources
+C:\Users\jbyrne\Documents\Visual Studio 2008\Projects\MyCore\obj\Debug\MyCore.vbproj.GenerateResource.Cache
+C:\Users\jbyrne\Documents\Visual Studio 2008\Projects\MyCore\obj\Debug\MyCore.dll.licenses
+C:\Users\jbyrne\Documents\Visual Studio 2008\Projects\MyCore\obj\Debug\MyCore.dll
+C:\Users\jbyrne\Documents\Visual Studio 2008\Projects\MyCore\obj\Debug\MyCore.xml
+C:\Users\jbyrne\Documents\Visual Studio 2008\Projects\MyCore\obj\Debug\MyCore.pdb
+C:\Users\jbyrne\Documents\Visual Studio 2008\Projects\MyCore\bin\Interop.FAXCOMLib.dll
+C:\Users\jbyrne\Documents\Visual Studio 2008\Projects\MyCore\bin\Interop.SHDocVw.dll
+C:\Users\jbyrne\Documents\Visual Studio 2008\Projects\MyCore\bin\AxInterop.SHDocVw.dll
+C:\Users\jbyrne\Documents\Visual Studio 2008\Projects\MyCore\obj\Debug\Interop.SHDocVw.dll
+C:\Users\jbyrne\Documents\Visual Studio 2008\Projects\MyCore\obj\Debug\AxInterop.SHDocVw.dll
+C:\Users\jbyrne\Documents\Visual Studio 2008\Projects\MyCore\obj\Debug\MyCore.vbproj.ResolveComReference.cache
+C:\Users\jbyrne\Documents\Visual Studio 2008\Projects\MyCore\obj\Debug\MyCore.ArrowButtonNext.resources
+C:\Users\jbyrne\Documents\Visual Studio 2008\Projects\MyCore\obj\Debug\MyCore.ArrowButtonPrev.resources
+C:\Users\jbyrne\Documents\Visual Studio 2008\Projects\MyCore\obj\Debug\MyCore.AutoCompleteBox.resources
+C:\Users\jbyrne\Documents\Visual Studio 2008\Projects\MyCore\obj\Debug\MyCore.GoogleMap.resources
+C:\Users\jbyrne\Documents\Visual Studio 2008\Projects\MyCore\obj\Debug\MyCore.frmPrint.resources
+C:\Users\jbyrne\Documents\Visual Studio 2008\Projects\MyCore\obj\Debug\MyCore.LineItemGrid.resources
+C:\Users\jbyrne\Documents\Visual Studio 2008\Projects\MyCore\obj\Debug\MyCore.LinkList.resources
+C:\Users\jbyrne\Documents\Visual Studio 2008\Projects\MyCore\obj\Debug\MyCore.ListBoxJumper.resources
+C:\Users\jbyrne\Documents\Visual Studio 2008\Projects\MyCore\obj\Debug\MyCore.LookupBox.resources
+C:\Users\jbyrne\Documents\Visual Studio 2008\Projects\MyCore\obj\Debug\MyCore.OnOffTextBox.resources
+C:\Users\jbyrne\Documents\Visual Studio 2008\Projects\MyCore\obj\Debug\MyCore.SignatureBox.resources
+C:\Users\jbyrne\Documents\Visual Studio 2008\Projects\MyCore\obj\Debug\MyCore.TableView.resources
+D:\Downloads\SourceCode\SourceCode\MyCore\bin\MyCore.dll.config
+D:\Downloads\SourceCode\SourceCode\MyCore\bin\MyCore.dll
+D:\Downloads\SourceCode\SourceCode\MyCore\bin\MyCore.pdb
+D:\Downloads\SourceCode\SourceCode\MyCore\bin\MyCore.xml
+D:\Downloads\SourceCode\SourceCode\MyCore\bin\BouncyCastle.Crypto.dll
+D:\Downloads\SourceCode\SourceCode\MyCore\bin\Google.Protobuf.dll
+D:\Downloads\SourceCode\SourceCode\MyCore\bin\Infragistics4.Shared.v22.2.dll
+D:\Downloads\SourceCode\SourceCode\MyCore\bin\Infragistics4.Win.Misc.v22.2.dll
+D:\Downloads\SourceCode\SourceCode\MyCore\bin\Infragistics4.Win.UltraWinEditors.v22.2.dll
+D:\Downloads\SourceCode\SourceCode\MyCore\bin\Infragistics4.Win.UltraWinGrid.v22.2.dll
+D:\Downloads\SourceCode\SourceCode\MyCore\bin\Infragistics4.Win.UltraWinListView.v22.2.dll
+D:\Downloads\SourceCode\SourceCode\MyCore\bin\Infragistics4.Win.UltraWinSchedule.v22.2.dll
+D:\Downloads\SourceCode\SourceCode\MyCore\bin\Infragistics4.Win.UltraWinTree.v22.2.dll
+D:\Downloads\SourceCode\SourceCode\MyCore\bin\Infragistics4.Win.v22.2.dll
+D:\Downloads\SourceCode\SourceCode\MyCore\bin\Interop.FAXCOMLib.dll
+D:\Downloads\SourceCode\SourceCode\MyCore\bin\K4os.Compression.LZ4.dll
+D:\Downloads\SourceCode\SourceCode\MyCore\bin\K4os.Compression.LZ4.Streams.dll
+D:\Downloads\SourceCode\SourceCode\MyCore\bin\K4os.Hash.xxHash.dll
+D:\Downloads\SourceCode\SourceCode\MyCore\bin\MySql.Data.dll
+D:\Downloads\SourceCode\SourceCode\MyCore\bin\System.Buffers.dll
+D:\Downloads\SourceCode\SourceCode\MyCore\bin\System.Memory.dll
+D:\Downloads\SourceCode\SourceCode\MyCore\bin\System.Numerics.Vectors.dll
+D:\Downloads\SourceCode\SourceCode\MyCore\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Downloads\SourceCode\SourceCode\MyCore\bin\Infragistics4.Win.UltraWinToolbars.v22.2.dll
+D:\Downloads\SourceCode\SourceCode\MyCore\bin\Infragistics4.Win.UltraWinTabControl.v22.2.dll
+D:\Downloads\SourceCode\SourceCode\MyCore\bin\Infragistics4.Win.UltraWinStatusBar.v22.2.dll
+D:\Downloads\SourceCode\SourceCode\MyCore\bin\BouncyCastle.Crypto.xml
+D:\Downloads\SourceCode\SourceCode\MyCore\bin\Google.Protobuf.pdb
+D:\Downloads\SourceCode\SourceCode\MyCore\bin\Google.Protobuf.xml
+D:\Downloads\SourceCode\SourceCode\MyCore\bin\Infragistics4.Shared.v22.2.xml
+D:\Downloads\SourceCode\SourceCode\MyCore\bin\Infragistics4.Win.Misc.v22.2.xml
+D:\Downloads\SourceCode\SourceCode\MyCore\bin\Infragistics4.Win.UltraWinEditors.v22.2.xml
+D:\Downloads\SourceCode\SourceCode\MyCore\bin\Infragistics4.Win.UltraWinGrid.v22.2.xml
+D:\Downloads\SourceCode\SourceCode\MyCore\bin\Infragistics4.Win.UltraWinListView.v22.2.xml
+D:\Downloads\SourceCode\SourceCode\MyCore\bin\Infragistics4.Win.UltraWinSchedule.v22.2.xml
+D:\Downloads\SourceCode\SourceCode\MyCore\bin\Infragistics4.Win.UltraWinTree.v22.2.xml
+D:\Downloads\SourceCode\SourceCode\MyCore\bin\Infragistics4.Win.v22.2.xml
+D:\Downloads\SourceCode\SourceCode\MyCore\bin\K4os.Compression.LZ4.xml
+D:\Downloads\SourceCode\SourceCode\MyCore\bin\K4os.Compression.LZ4.Streams.xml
+D:\Downloads\SourceCode\SourceCode\MyCore\bin\K4os.Hash.xxHash.xml
+D:\Downloads\SourceCode\SourceCode\MyCore\bin\MySql.Data.xml
+D:\Downloads\SourceCode\SourceCode\MyCore\bin\System.Buffers.xml
+D:\Downloads\SourceCode\SourceCode\MyCore\bin\System.Data.SQLite.xml
+D:\Downloads\SourceCode\SourceCode\MyCore\bin\System.Memory.xml
+D:\Downloads\SourceCode\SourceCode\MyCore\bin\System.Numerics.Vectors.xml
+D:\Downloads\SourceCode\SourceCode\MyCore\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Downloads\SourceCode\SourceCode\MyCore\bin\Infragistics4.Win.UltraWinToolbars.v22.2.xml
+D:\Downloads\SourceCode\SourceCode\MyCore\bin\Infragistics4.Win.UltraWinTabControl.v22.2.xml
+D:\Downloads\SourceCode\SourceCode\MyCore\bin\Infragistics4.Win.UltraWinStatusBar.v22.2.xml
+D:\Downloads\SourceCode\SourceCode\MyCore\bin\Interop.SHDocVw.dll
+D:\Downloads\SourceCode\SourceCode\MyCore\bin\AxInterop.SHDocVw.dll
+D:\Downloads\SourceCode\SourceCode\MyCore\obj\Debug\MyCore.vbproj.AssemblyReference.cache
+D:\Downloads\SourceCode\SourceCode\MyCore\obj\Debug\Interop.SHDocVw.dll
+D:\Downloads\SourceCode\SourceCode\MyCore\obj\Debug\AxInterop.SHDocVw.dll
+D:\Downloads\SourceCode\SourceCode\MyCore\obj\Debug\MyCore.vbproj.ResolveComReference.cache
+D:\Downloads\SourceCode\SourceCode\MyCore\obj\Debug\MyCore.ArrowButtonNext.resources
+D:\Downloads\SourceCode\SourceCode\MyCore\obj\Debug\MyCore.ArrowButtonPrev.resources
+D:\Downloads\SourceCode\SourceCode\MyCore\obj\Debug\MyCore.AutoCompleteBox.resources
+D:\Downloads\SourceCode\SourceCode\MyCore\obj\Debug\MyCore.ErrorPop.resources
+D:\Downloads\SourceCode\SourceCode\MyCore\obj\Debug\MyCore.AskWindow.resources
+D:\Downloads\SourceCode\SourceCode\MyCore\obj\Debug\MyCore.Browse.resources
+D:\Downloads\SourceCode\SourceCode\MyCore\obj\Debug\MyCore.FormattedTextEditor.resources
+D:\Downloads\SourceCode\SourceCode\MyCore\obj\Debug\MyCore.frmDateBox.resources
+D:\Downloads\SourceCode\SourceCode\MyCore\obj\Debug\MyCore.frmEmailForm.resources
+D:\Downloads\SourceCode\SourceCode\MyCore\obj\Debug\MyCore.frmLogin.resources
+D:\Downloads\SourceCode\SourceCode\MyCore\obj\Debug\MyCore.frmSelect.resources
+D:\Downloads\SourceCode\SourceCode\MyCore\obj\Debug\MyCore.frmNewUpdate.resources
+D:\Downloads\SourceCode\SourceCode\MyCore\obj\Debug\MyCore.GravityInput.resources
+D:\Downloads\SourceCode\SourceCode\MyCore\obj\Debug\MyCore.InfoPop.resources
+D:\Downloads\SourceCode\SourceCode\MyCore\obj\Debug\MyCore.GoogleMap.resources
+D:\Downloads\SourceCode\SourceCode\MyCore\obj\Debug\MyCore.frmPrint.resources
+D:\Downloads\SourceCode\SourceCode\MyCore\obj\Debug\MyCore.MultiInput.resources
+D:\Downloads\SourceCode\SourceCode\MyCore\obj\Debug\MyCore.LineItemGrid.resources
+D:\Downloads\SourceCode\SourceCode\MyCore\obj\Debug\MyCore.LinkList.resources
+D:\Downloads\SourceCode\SourceCode\MyCore\obj\Debug\MyCore.ListBoxJumper.resources
+D:\Downloads\SourceCode\SourceCode\MyCore\obj\Debug\MyCore.LookupBox.resources
+D:\Downloads\SourceCode\SourceCode\MyCore\obj\Debug\MyCore.Resources.resources
+D:\Downloads\SourceCode\SourceCode\MyCore\obj\Debug\MyCore.OnOffTextBox.resources
+D:\Downloads\SourceCode\SourceCode\MyCore\obj\Debug\MyCore.SignatureBox.resources
+D:\Downloads\SourceCode\SourceCode\MyCore\obj\Debug\MyCore.TableView.resources
+D:\Downloads\SourceCode\SourceCode\MyCore\obj\Debug\MyCore.vbproj.GenerateResource.cache
+D:\Downloads\SourceCode\SourceCode\MyCore\obj\Debug\MyCore.dll.licenses
+D:\Downloads\SourceCode\SourceCode\MyCore\obj\Debug\MyCore.vbproj.CoreCompileInputs.cache
+D:\Downloads\SourceCode\SourceCode\MyCore\obj\Debug\MyCore.vbproj.CopyComplete
+D:\Downloads\SourceCode\SourceCode\MyCore\obj\Debug\MyCore.dll
+D:\Downloads\SourceCode\SourceCode\MyCore\obj\Debug\MyCore.xml
+D:\Downloads\SourceCode\SourceCode\MyCore\obj\Debug\MyCore.pdb
+C:\Bluechip Development\Gravity\Gravity Desktop\MyCore\MyCore\bin\MyCore.dll.config
+C:\Bluechip Development\Gravity\Gravity Desktop\MyCore\MyCore\bin\MyCore.dll
+C:\Bluechip Development\Gravity\Gravity Desktop\MyCore\MyCore\bin\MyCore.pdb
+C:\Bluechip Development\Gravity\Gravity Desktop\MyCore\MyCore\bin\MyCore.xml
+C:\Bluechip Development\Gravity\Gravity Desktop\MyCore\MyCore\bin\BouncyCastle.Crypto.dll
+C:\Bluechip Development\Gravity\Gravity Desktop\MyCore\MyCore\bin\Google.Protobuf.dll
+C:\Bluechip Development\Gravity\Gravity Desktop\MyCore\MyCore\bin\K4os.Compression.LZ4.dll
+C:\Bluechip Development\Gravity\Gravity Desktop\MyCore\MyCore\bin\K4os.Compression.LZ4.Streams.dll
+C:\Bluechip Development\Gravity\Gravity Desktop\MyCore\MyCore\bin\K4os.Hash.xxHash.dll
+C:\Bluechip Development\Gravity\Gravity Desktop\MyCore\MyCore\bin\MySql.Data.dll
+C:\Bluechip Development\Gravity\Gravity Desktop\MyCore\MyCore\bin\System.Buffers.dll
+C:\Bluechip Development\Gravity\Gravity Desktop\MyCore\MyCore\bin\System.Memory.dll
+C:\Bluechip Development\Gravity\Gravity Desktop\MyCore\MyCore\bin\System.Numerics.Vectors.dll
+C:\Bluechip Development\Gravity\Gravity Desktop\MyCore\MyCore\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Bluechip Development\Gravity\Gravity Desktop\MyCore\MyCore\bin\Infragistics4.Win.UltraWinToolbars.v22.2.dll
+C:\Bluechip Development\Gravity\Gravity Desktop\MyCore\MyCore\bin\Infragistics4.Win.UltraWinTabControl.v22.2.dll
+C:\Bluechip Development\Gravity\Gravity Desktop\MyCore\MyCore\bin\Infragistics4.Win.UltraWinStatusBar.v22.2.dll
+C:\Bluechip Development\Gravity\Gravity Desktop\MyCore\MyCore\bin\BouncyCastle.Crypto.xml
+C:\Bluechip Development\Gravity\Gravity Desktop\MyCore\MyCore\bin\Google.Protobuf.pdb
+C:\Bluechip Development\Gravity\Gravity Desktop\MyCore\MyCore\bin\Google.Protobuf.xml
+C:\Bluechip Development\Gravity\Gravity Desktop\MyCore\MyCore\bin\Infragistics4.Shared.v22.2.xml
+C:\Bluechip Development\Gravity\Gravity Desktop\MyCore\MyCore\bin\Infragistics4.Win.Misc.v22.2.xml
+C:\Bluechip Development\Gravity\Gravity Desktop\MyCore\MyCore\bin\Infragistics4.Win.UltraWinEditors.v22.2.xml
+C:\Bluechip Development\Gravity\Gravity Desktop\MyCore\MyCore\bin\Infragistics4.Win.UltraWinGrid.v22.2.xml
+C:\Bluechip Development\Gravity\Gravity Desktop\MyCore\MyCore\bin\Infragistics4.Win.UltraWinListView.v22.2.xml
+C:\Bluechip Development\Gravity\Gravity Desktop\MyCore\MyCore\bin\Infragistics4.Win.UltraWinSchedule.v22.2.xml
+C:\Bluechip Development\Gravity\Gravity Desktop\MyCore\MyCore\bin\Infragistics4.Win.UltraWinTree.v22.2.xml
+C:\Bluechip Development\Gravity\Gravity Desktop\MyCore\MyCore\bin\Infragistics4.Win.v22.2.xml
+C:\Bluechip Development\Gravity\Gravity Desktop\MyCore\MyCore\bin\K4os.Compression.LZ4.xml
+C:\Bluechip Development\Gravity\Gravity Desktop\MyCore\MyCore\bin\K4os.Compression.LZ4.Streams.xml
+C:\Bluechip Development\Gravity\Gravity Desktop\MyCore\MyCore\bin\K4os.Hash.xxHash.xml
+C:\Bluechip Development\Gravity\Gravity Desktop\MyCore\MyCore\bin\MySql.Data.xml
+C:\Bluechip Development\Gravity\Gravity Desktop\MyCore\MyCore\bin\System.Buffers.xml
+C:\Bluechip Development\Gravity\Gravity Desktop\MyCore\MyCore\bin\System.Data.SQLite.xml
+C:\Bluechip Development\Gravity\Gravity Desktop\MyCore\MyCore\bin\System.Memory.xml
+C:\Bluechip Development\Gravity\Gravity Desktop\MyCore\MyCore\bin\System.Numerics.Vectors.xml
+C:\Bluechip Development\Gravity\Gravity Desktop\MyCore\MyCore\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Bluechip Development\Gravity\Gravity Desktop\MyCore\MyCore\bin\Infragistics4.Win.UltraWinToolbars.v22.2.xml
+C:\Bluechip Development\Gravity\Gravity Desktop\MyCore\MyCore\bin\Infragistics4.Win.UltraWinTabControl.v22.2.xml
+C:\Bluechip Development\Gravity\Gravity Desktop\MyCore\MyCore\bin\Infragistics4.Win.UltraWinStatusBar.v22.2.xml
+C:\Bluechip Development\Gravity\Gravity Desktop\MyCore\MyCore\bin\Interop.SHDocVw.dll
+C:\Bluechip Development\Gravity\Gravity Desktop\MyCore\MyCore\bin\AxInterop.SHDocVw.dll
+C:\Bluechip Development\Gravity\Gravity Desktop\MyCore\MyCore\obj\Debug\MyCore.vbproj.AssemblyReference.cache
+C:\Bluechip Development\Gravity\Gravity Desktop\MyCore\MyCore\obj\Debug\Interop.SHDocVw.dll
+C:\Bluechip Development\Gravity\Gravity Desktop\MyCore\MyCore\obj\Debug\AxInterop.SHDocVw.dll
+C:\Bluechip Development\Gravity\Gravity Desktop\MyCore\MyCore\obj\Debug\MyCore.vbproj.ResolveComReference.cache
+C:\Bluechip Development\Gravity\Gravity Desktop\MyCore\MyCore\obj\Debug\MyCore.ArrowButtonNext.resources
+C:\Bluechip Development\Gravity\Gravity Desktop\MyCore\MyCore\obj\Debug\MyCore.ArrowButtonPrev.resources
+C:\Bluechip Development\Gravity\Gravity Desktop\MyCore\MyCore\obj\Debug\MyCore.AutoCompleteBox.resources
+C:\Bluechip Development\Gravity\Gravity Desktop\MyCore\MyCore\obj\Debug\MyCore.ErrorPop.resources
+C:\Bluechip Development\Gravity\Gravity Desktop\MyCore\MyCore\obj\Debug\MyCore.AskWindow.resources
+C:\Bluechip Development\Gravity\Gravity Desktop\MyCore\MyCore\obj\Debug\MyCore.Browse.resources
+C:\Bluechip Development\Gravity\Gravity Desktop\MyCore\MyCore\obj\Debug\MyCore.FormattedTextEditor.resources
+C:\Bluechip Development\Gravity\Gravity Desktop\MyCore\MyCore\obj\Debug\MyCore.frmDateBox.resources
+C:\Bluechip Development\Gravity\Gravity Desktop\MyCore\MyCore\obj\Debug\MyCore.frmEmailForm.resources
+C:\Bluechip Development\Gravity\Gravity Desktop\MyCore\MyCore\obj\Debug\MyCore.frmLogin.resources
+C:\Bluechip Development\Gravity\Gravity Desktop\MyCore\MyCore\obj\Debug\MyCore.frmSelect.resources
+C:\Bluechip Development\Gravity\Gravity Desktop\MyCore\MyCore\obj\Debug\MyCore.frmNewUpdate.resources
+C:\Bluechip Development\Gravity\Gravity Desktop\MyCore\MyCore\obj\Debug\MyCore.GravityInput.resources
+C:\Bluechip Development\Gravity\Gravity Desktop\MyCore\MyCore\obj\Debug\MyCore.InfoPop.resources
+C:\Bluechip Development\Gravity\Gravity Desktop\MyCore\MyCore\obj\Debug\MyCore.GoogleMap.resources
+C:\Bluechip Development\Gravity\Gravity Desktop\MyCore\MyCore\obj\Debug\MyCore.frmPrint.resources
+C:\Bluechip Development\Gravity\Gravity Desktop\MyCore\MyCore\obj\Debug\MyCore.MultiInput.resources
+C:\Bluechip Development\Gravity\Gravity Desktop\MyCore\MyCore\obj\Debug\MyCore.LineItemGrid.resources
+C:\Bluechip Development\Gravity\Gravity Desktop\MyCore\MyCore\obj\Debug\MyCore.LinkList.resources
+C:\Bluechip Development\Gravity\Gravity Desktop\MyCore\MyCore\obj\Debug\MyCore.ListBoxJumper.resources
+C:\Bluechip Development\Gravity\Gravity Desktop\MyCore\MyCore\obj\Debug\MyCore.LookupBox.resources
+C:\Bluechip Development\Gravity\Gravity Desktop\MyCore\MyCore\obj\Debug\MyCore.Resources.resources
+C:\Bluechip Development\Gravity\Gravity Desktop\MyCore\MyCore\obj\Debug\MyCore.OnOffTextBox.resources
+C:\Bluechip Development\Gravity\Gravity Desktop\MyCore\MyCore\obj\Debug\MyCore.SignatureBox.resources
+C:\Bluechip Development\Gravity\Gravity Desktop\MyCore\MyCore\obj\Debug\MyCore.TableView.resources
+C:\Bluechip Development\Gravity\Gravity Desktop\MyCore\MyCore\obj\Debug\MyCore.vbproj.GenerateResource.cache
+C:\Bluechip Development\Gravity\Gravity Desktop\MyCore\MyCore\obj\Debug\MyCore.dll.licenses
+C:\Bluechip Development\Gravity\Gravity Desktop\MyCore\MyCore\obj\Debug\MyCore.vbproj.CoreCompileInputs.cache
+C:\Bluechip Development\Gravity\Gravity Desktop\MyCore\MyCore\obj\Debug\MyCore.vbproj.CopyComplete
+C:\Bluechip Development\Gravity\Gravity Desktop\MyCore\MyCore\obj\Debug\MyCore.dll
+C:\Bluechip Development\Gravity\Gravity Desktop\MyCore\MyCore\obj\Debug\MyCore.xml
+C:\Bluechip Development\Gravity\Gravity Desktop\MyCore\MyCore\obj\Debug\MyCore.pdb
+C:\Bluechip Development\MyCore\MyCore\bin\MyCore.dll.config
+C:\Bluechip Development\MyCore\MyCore\bin\MyCore.dll
+C:\Bluechip Development\MyCore\MyCore\bin\MyCore.pdb
+C:\Bluechip Development\MyCore\MyCore\bin\MyCore.xml
+C:\Bluechip Development\MyCore\MyCore\bin\BouncyCastle.Crypto.dll
+C:\Bluechip Development\MyCore\MyCore\bin\dbAutoTrack.PDFWriter.dll
+C:\Bluechip Development\MyCore\MyCore\bin\Google.Protobuf.dll
+C:\Bluechip Development\MyCore\MyCore\bin\Infragistics4.Shared.v22.2.dll
+C:\Bluechip Development\MyCore\MyCore\bin\Infragistics4.Win.Misc.v22.2.dll
+C:\Bluechip Development\MyCore\MyCore\bin\Infragistics4.Win.UltraWinEditors.v22.2.dll
+C:\Bluechip Development\MyCore\MyCore\bin\Infragistics4.Win.UltraWinGrid.v22.2.dll
+C:\Bluechip Development\MyCore\MyCore\bin\Infragistics4.Win.UltraWinListView.v22.2.dll
+C:\Bluechip Development\MyCore\MyCore\bin\Infragistics4.Win.UltraWinSchedule.v22.2.dll
+C:\Bluechip Development\MyCore\MyCore\bin\Infragistics4.Win.UltraWinTree.v22.2.dll
+C:\Bluechip Development\MyCore\MyCore\bin\Infragistics4.Win.v22.2.dll
+C:\Bluechip Development\MyCore\MyCore\bin\K4os.Compression.LZ4.dll
+C:\Bluechip Development\MyCore\MyCore\bin\K4os.Compression.LZ4.Streams.dll
+C:\Bluechip Development\MyCore\MyCore\bin\K4os.Hash.xxHash.dll
+C:\Bluechip Development\MyCore\MyCore\bin\MySql.Data.dll
+C:\Bluechip Development\MyCore\MyCore\bin\System.Buffers.dll
+C:\Bluechip Development\MyCore\MyCore\bin\System.Memory.dll
+C:\Bluechip Development\MyCore\MyCore\bin\System.Numerics.Vectors.dll
+C:\Bluechip Development\MyCore\MyCore\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Bluechip Development\MyCore\MyCore\bin\Infragistics4.Win.UltraWinToolbars.v22.2.dll
+C:\Bluechip Development\MyCore\MyCore\bin\Infragistics4.Win.UltraWinTabControl.v22.2.dll
+C:\Bluechip Development\MyCore\MyCore\bin\Infragistics4.Win.UltraWinStatusBar.v22.2.dll
+C:\Bluechip Development\MyCore\MyCore\bin\BouncyCastle.Crypto.xml
+C:\Bluechip Development\MyCore\MyCore\bin\Google.Protobuf.pdb
+C:\Bluechip Development\MyCore\MyCore\bin\Google.Protobuf.xml
+C:\Bluechip Development\MyCore\MyCore\bin\Infragistics4.Shared.v22.2.xml
+C:\Bluechip Development\MyCore\MyCore\bin\Infragistics4.Win.Misc.v22.2.xml
+C:\Bluechip Development\MyCore\MyCore\bin\Infragistics4.Win.UltraWinEditors.v22.2.xml
+C:\Bluechip Development\MyCore\MyCore\bin\Infragistics4.Win.UltraWinGrid.v22.2.xml
+C:\Bluechip Development\MyCore\MyCore\bin\Infragistics4.Win.UltraWinListView.v22.2.xml
+C:\Bluechip Development\MyCore\MyCore\bin\Infragistics4.Win.UltraWinSchedule.v22.2.xml
+C:\Bluechip Development\MyCore\MyCore\bin\Infragistics4.Win.UltraWinTree.v22.2.xml
+C:\Bluechip Development\MyCore\MyCore\bin\Infragistics4.Win.v22.2.xml
+C:\Bluechip Development\MyCore\MyCore\bin\K4os.Compression.LZ4.xml
+C:\Bluechip Development\MyCore\MyCore\bin\K4os.Compression.LZ4.Streams.xml
+C:\Bluechip Development\MyCore\MyCore\bin\K4os.Hash.xxHash.xml
+C:\Bluechip Development\MyCore\MyCore\bin\MySql.Data.xml
+C:\Bluechip Development\MyCore\MyCore\bin\System.Buffers.xml
+C:\Bluechip Development\MyCore\MyCore\bin\System.Memory.xml
+C:\Bluechip Development\MyCore\MyCore\bin\System.Numerics.Vectors.xml
+C:\Bluechip Development\MyCore\MyCore\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Bluechip Development\MyCore\MyCore\bin\Infragistics4.Win.UltraWinToolbars.v22.2.xml
+C:\Bluechip Development\MyCore\MyCore\bin\Infragistics4.Win.UltraWinTabControl.v22.2.xml
+C:\Bluechip Development\MyCore\MyCore\bin\Infragistics4.Win.UltraWinStatusBar.v22.2.xml
+C:\Bluechip Development\MyCore\MyCore\bin\Interop.SHDocVw.dll
+C:\Bluechip Development\MyCore\MyCore\bin\AxInterop.SHDocVw.dll
+C:\Bluechip Development\MyCore\MyCore\obj\Debug\MyCore.vbproj.AssemblyReference.cache
+C:\Bluechip Development\MyCore\MyCore\obj\Debug\Interop.SHDocVw.dll
+C:\Bluechip Development\MyCore\MyCore\obj\Debug\AxInterop.SHDocVw.dll
+C:\Bluechip Development\MyCore\MyCore\obj\Debug\MyCore.vbproj.ResolveComReference.cache
+C:\Bluechip Development\MyCore\MyCore\obj\Debug\MyCore.ArrowButtonNext.resources
+C:\Bluechip Development\MyCore\MyCore\obj\Debug\MyCore.ArrowButtonPrev.resources
+C:\Bluechip Development\MyCore\MyCore\obj\Debug\MyCore.AutoCompleteBox.resources
+C:\Bluechip Development\MyCore\MyCore\obj\Debug\MyCore.ErrorPop.resources
+C:\Bluechip Development\MyCore\MyCore\obj\Debug\MyCore.AskWindow.resources
+C:\Bluechip Development\MyCore\MyCore\obj\Debug\MyCore.Browse.resources
+C:\Bluechip Development\MyCore\MyCore\obj\Debug\MyCore.FormattedTextEditor.resources
+C:\Bluechip Development\MyCore\MyCore\obj\Debug\MyCore.frmDateBox.resources
+C:\Bluechip Development\MyCore\MyCore\obj\Debug\MyCore.frmEmailForm.resources
+C:\Bluechip Development\MyCore\MyCore\obj\Debug\MyCore.frmLogin.resources
+C:\Bluechip Development\MyCore\MyCore\obj\Debug\MyCore.frmSelect.resources
+C:\Bluechip Development\MyCore\MyCore\obj\Debug\MyCore.frmNewUpdate.resources
+C:\Bluechip Development\MyCore\MyCore\obj\Debug\MyCore.GravityInput.resources
+C:\Bluechip Development\MyCore\MyCore\obj\Debug\MyCore.InfoPop.resources
+C:\Bluechip Development\MyCore\MyCore\obj\Debug\MyCore.GoogleMap.resources
+C:\Bluechip Development\MyCore\MyCore\obj\Debug\MyCore.frmPrint.resources
+C:\Bluechip Development\MyCore\MyCore\obj\Debug\MyCore.MultiInput.resources
+C:\Bluechip Development\MyCore\MyCore\obj\Debug\MyCore.LineItemGrid.resources
+C:\Bluechip Development\MyCore\MyCore\obj\Debug\MyCore.LinkList.resources
+C:\Bluechip Development\MyCore\MyCore\obj\Debug\MyCore.ListBoxJumper.resources
+C:\Bluechip Development\MyCore\MyCore\obj\Debug\MyCore.LookupBox.resources
+C:\Bluechip Development\MyCore\MyCore\obj\Debug\MyCore.Resources.resources
+C:\Bluechip Development\MyCore\MyCore\obj\Debug\MyCore.OnOffTextBox.resources
+C:\Bluechip Development\MyCore\MyCore\obj\Debug\MyCore.SignatureBox.resources
+C:\Bluechip Development\MyCore\MyCore\obj\Debug\MyCore.TableView.resources
+C:\Bluechip Development\MyCore\MyCore\obj\Debug\MyCore.vbproj.GenerateResource.cache
+C:\Bluechip Development\MyCore\MyCore\obj\Debug\MyCore.dll.licenses
+C:\Bluechip Development\MyCore\MyCore\obj\Debug\MyCore.vbproj.CoreCompileInputs.cache
+C:\Bluechip Development\MyCore\MyCore\obj\Debug\MyCore.vbproj.CopyComplete
+C:\Bluechip Development\MyCore\MyCore\obj\Debug\MyCore.dll
+C:\Bluechip Development\MyCore\MyCore\obj\Debug\MyCore.xml
+C:\Bluechip Development\MyCore\MyCore\obj\Debug\MyCore.pdb
+C:\Bluechip Development\MyCore\MyCore\bin\ChilkatDotNet48.dll
